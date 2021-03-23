@@ -44,4 +44,16 @@ table {
     text-indent: 40px;
   }
   
+  /* unvisited link */
+a:link {
+  color: black;
+}
+/* visited link */
+a:visited {
+  color: red;
+}
   
+/* mouse over link */
+a:hover {
+  color: blue;
+}
